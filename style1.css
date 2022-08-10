@@ -1,9 +1,19 @@
 body {
-background-color: blue; text-align: justify;
+    background-color: #4C535C ; text-align: justify;
 }
 h1 {
-    color: brown;text-align: center;
+    color:#A7C1E1;text-align: center;
+    border:dotted 5px red;
+    padding: 10px;
+    margin: 30px;
 }
 h3 {
-    color: aqua;text-align: right;
+    color: #8E9BAB;text-align: right;
+    
+}
+
+#imagema {
+    border: solid red;
+    width: 15px; 
+
 }
