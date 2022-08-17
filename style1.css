@@ -17,3 +17,23 @@ h3 {
     width: 15px; 
 
 }
+
+.itens {
+    background-color: blue;
+    list-style: none;
+}
+li::marker {
+    content: "❤️";
+    color: black;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.cabeca {
+    width: 2px;
+    border: solid white;
+}
